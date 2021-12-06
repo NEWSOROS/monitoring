@@ -1,6 +1,6 @@
 #!/bin/bash
 
-result=$(timeout -k 50 45 python3 "./files/output_validator_measurements.py")
+result=$(timeout -k 50 45 python3 "./output_validator_measurements.py")
 
 if [ -z "${result}" ]
 then
