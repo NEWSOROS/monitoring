@@ -3,5 +3,5 @@ output_starter.sh запустить
 
 monitoring_config.py конфиг
 
-out.json вывод
+output.json вывод
 
